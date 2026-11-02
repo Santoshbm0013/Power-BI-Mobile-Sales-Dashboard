@@ -60,9 +60,6 @@ Allows users to filter the dashboard by:
 - Mobile Model
 - Brand
 
-## 📷 Dashboard Preview
-
-![Mobile Sales Dashboard](dashboard_preview.png)
 
 ## 💡 Business Questions Answered
 
